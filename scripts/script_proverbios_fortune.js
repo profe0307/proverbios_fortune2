@@ -10,5 +10,5 @@ function muestra_proverbio_aleatorio(){
 	const proverbio_escogido = proverbios_data[indiceAleatorio];
     	document.getElementById('proverbio_parrafo').innerText = proverbio_escogido;
 	}
-window.onload = muestra_proverbio_aleatorio();
+window.onload = muestra_proverbio_aleatorio;
 
