@@ -1,4 +1,5 @@
 const proverbios_data = [
+	"un gran poder conlleva una gran responsabilidad",
 	"vini vidi vinci",
 	"yo en tu pa por si aca",
 	"alla donde fueres haz lo que vieres",
